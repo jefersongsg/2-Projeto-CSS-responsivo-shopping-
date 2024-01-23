@@ -86,7 +86,7 @@ header {
     margin: 24px 0 0 57px;
 }
 
-@media screen and (max-width: 1000px){
+@media screen and (max-width: 1100px){
 
 section {
     width: 100%;
@@ -108,7 +108,9 @@ header {
     
 img { 
     position: static;
-    max-width: 90%; 
+    width: 245px;
+    height: 258px;
+    margin-left: 20vw;
     }
 
 h1 {
@@ -129,7 +131,7 @@ p {
     }
 
 button {
-    margin:-28 auto;
-    display:block;
+    margin-left: 20vw;
+    display: block;
     }
 }
